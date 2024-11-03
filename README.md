@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Eu sou a Sofia Passos
 
-<!--
-**sofiaparreira/sofiaparreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/sofiaparreira/">
+    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=sofiaparreira&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaparreira&layout=compact&langs_count=6"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Terminando em 2024 o Ensino Médio Técnico
+- Iniciando em 2025 Ciências da Computação
+
