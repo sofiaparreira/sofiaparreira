@@ -8,6 +8,3 @@
 </div>
 
 
-- Cursando Ciências da Computação
-
-
