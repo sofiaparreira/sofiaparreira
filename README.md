@@ -8,6 +8,6 @@
 </div>
 
 
-- Terminando em 2024 o Ensino Médio Técnico
-- Iniciando em 2025 Ciências da Computação
+- Cursando Ciências da Computação
+
 
